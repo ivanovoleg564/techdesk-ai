@@ -1,0 +1,5 @@
+{"chunk_id": "vpn_0", "source": "data/processed/vpn.txt", "title": "vpn.txt", "category": "general", "chunk_index": 0, "text": "Инструкция по VPN. Проверьте сертификаты и настройки сети."}
+{"chunk_id": "python_0", "source": "data/processed/python.md", "title": "python.md", "category": "general", "chunk_index": 0, "text": "# Настройка Python"}
+{"chunk_id": "git_0", "source": "data/processed/git.txt", "title": "git.txt", "category": "general", "chunk_index": 0, "text": "Git push не работает. Проверьте доступ к репозиторию."}
+{"chunk_id": "printer_0", "source": "data/processed/printer.txt", "title": "printer.txt", "category": "general", "chunk_index": 0, "text": "Доступ к принтеру. Настройте IP-адрес устройства."}
+{"chunk_id": "email_0", "source": "data/processed/email.txt", "title": "email.txt", "category": "general", "chunk_index": 0, "text": "Внутренняя почта. Как настроить Outlook."}

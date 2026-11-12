@@ -1,0 +1,13 @@
+{
+  "session_id": "5dd955d0-8213-46c9-b360-5782eb8a2825",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Не подключается VPN, выдает ошибку таймаута. Что мне сделать?"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"category\": \"VPN Connection Issue\",\n  \"priority\": \"Medium\",\n  \"summary\": \"VPN connection failed due to timeout.\",\n  \"recommended_steps\": [\n    {\n      \"action\": \"Check network connectivity\",\n      \"description\": \"Verify that your internet connection is stable and working properly.\"\n    },\n    {\n      \"action\": \"Restart VPN client\",\n      \"description\": \"Close and reopen the VPN application or service.\"\n    },\n    {\n      \"action\": \"Reset VPN settings\",\n      \"description\": \"Clear cache and reset default configuration in VPN app/settings.\"\n    },\n    {\n      \"action\": \"Check server status\",\n      \"description\": \"Visit VPN provider's website or support page to check if there are any known issues with their servers.\"\n    }\n  ],\n  \"needs_human\": false\n}"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "session_id": "707dc8f7-9dfb-49a9-a492-44a7826be0d1",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Привет! Как настроить виртуальное окружение в Python?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ошибка валидации"
+    }
+  ]
+}

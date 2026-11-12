@@ -1,0 +1,37 @@
+[
+  {
+    "source": "data/raw/vpn.txt",
+    "title": "vpn.txt",
+    "category": "general",
+    "size": 58,
+    "status": "processed"
+  },
+  {
+    "source": "data/raw/python.md",
+    "title": "python.md",
+    "category": "general",
+    "size": 18,
+    "status": "processed"
+  },
+  {
+    "source": "data/raw/git.txt",
+    "title": "git.txt",
+    "category": "general",
+    "size": 53,
+    "status": "processed"
+  },
+  {
+    "source": "data/raw/printer.txt",
+    "title": "printer.txt",
+    "category": "general",
+    "size": 49,
+    "status": "processed"
+  },
+  {
+    "source": "data/raw/email.txt",
+    "title": "email.txt",
+    "category": "general",
+    "size": 40,
+    "status": "processed"
+  }
+]

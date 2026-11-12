@@ -1,0 +1,13 @@
+{
+  "session_id": "7233be64-21e8-4f08-893f-69b899f694ab",
+  "messages": [
+    {
+      "role": "user",
+      "content": "привет "
+    },
+    {
+      "role": "assistant",
+      "content": "Mock-ответ: Проверьте подключение к сети и перезапустите VPN."
+    }
+  ]
+}

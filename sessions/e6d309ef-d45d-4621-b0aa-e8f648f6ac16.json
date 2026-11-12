@@ -1,0 +1,13 @@
+{
+  "session_id": "e6d309ef-d45d-4621-b0aa-e8f648f6ac16",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Не подключается VPN, выдает ошибку таймаута. Что мне сделать?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ошибка валидации"
+    }
+  ]
+}

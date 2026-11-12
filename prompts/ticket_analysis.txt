@@ -1,0 +1,19 @@
+Вопрос: {question}
+Контекст: {context}
+
+Верни строго JSON без markdown-разметки.
+ПРАВИЛА:
+1. "category": строго одно слово на английском из списка: "access", "network", "software", "hardware", "other".
+2. "priority": строго одно слово на английском из списка: "low", "normal", "high", "critical".
+3. "summary": ОБЯЗАТЕЛЬНО НА РУССКОМ ЯЗЫКЕ.
+4. "recommended_steps": ОБЯЗАТЕЛЬНО НА РУССКОМ ЯЗЫКЕ. Массив обычных строк.
+5. "needs_human": true или false.
+
+Пример:
+{{
+  "category": "network",
+  "priority": "high",
+  "summary": "Ошибка таймаута при подключении к VPN",
+  "recommended_steps": ["Проверить интернет-соединение", "Перезапустить клиент VPN"],
+  "needs_human": false
+}}

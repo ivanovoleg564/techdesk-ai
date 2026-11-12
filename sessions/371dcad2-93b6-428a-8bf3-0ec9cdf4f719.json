@@ -1,0 +1,13 @@
+{
+  "session_id": "371dcad2-93b6-428a-8bf3-0ec9cdf4f719",
+  "messages": [
+    {
+      "role": "user",
+      "content": "привет, как дела?"
+    },
+    {
+      "role": "assistant",
+      "content": "{\"category\": \"network\", \"priority\": \"high\", \"summary\": \"Не подключается VPN\", \"recommended_steps\": [\"Проверить сеть\", \"Перезапустить клиент\"], \"needs_human\": false}"
+    }
+  ]
+}

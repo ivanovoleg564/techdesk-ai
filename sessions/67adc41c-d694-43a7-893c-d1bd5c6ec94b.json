@@ -1,0 +1,21 @@
+{
+  "session_id": "67adc41c-d694-43a7-893c-d1bd5c6ec94b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "5"
+    },
+    {
+      "role": "assistant",
+      "content": "{\"category\": \"network\", \"priority\": \"high\", \"summary\": \"Не подключается VPN\", \"recommended_steps\": [\"Проверить сеть\", \"Перезапустить клиент\"], \"needs_human\": false}"
+    },
+    {
+      "role": "user",
+      "content": "привет "
+    },
+    {
+      "role": "assistant",
+      "content": "{\"category\": \"network\", \"priority\": \"high\", \"summary\": \"Не подключается VPN\", \"recommended_steps\": [\"Проверить сеть\", \"Перезапустить клиент\"], \"needs_human\": false}"
+    }
+  ]
+}

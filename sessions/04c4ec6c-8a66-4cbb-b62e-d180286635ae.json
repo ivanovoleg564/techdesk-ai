@@ -1,0 +1,21 @@
+{
+  "session_id": "04c4ec6c-8a66-4cbb-b62e-d180286635ae",
+  "messages": [
+    {
+      "role": "user",
+      "content": "У меня не работает VPN"
+    },
+    {
+      "role": "assistant",
+      "content": "{\"category\": \"network\", \"priority\": \"high\", \"summary\": \"Не подключается VPN\", \"recommended_steps\": [\"Проверить сеть\", \"Перезапустить клиент\"], \"needs_human\": false}"
+    },
+    {
+      "role": "user",
+      "content": "/exit "
+    },
+    {
+      "role": "assistant",
+      "content": "{\"category\": \"network\", \"priority\": \"high\", \"summary\": \"Не подключается VPN\", \"recommended_steps\": [\"Проверить сеть\", \"Перезапустить клиент\"], \"needs_human\": false}"
+    }
+  ]
+}

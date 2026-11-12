@@ -1,0 +1,8 @@
+{
+  "total_documents": 5,
+  "total_chunks": 5,
+  "empty_chunks": 0,
+  "duplicate_chunks": 0,
+  "min_chunk_size": 18,
+  "max_chunk_size": 58
+}
